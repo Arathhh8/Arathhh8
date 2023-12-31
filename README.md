@@ -12,13 +12,14 @@
   <h3> I'm an Electronics Engineer passionate about Embedded Systems, focusing on the C language.</h3>
   <br />
 
-<div style="text-align: left; margin-left: 10px;">
+<div style="text-align: left; margin-left: 10px; display: inline-block;">
   - 🔭 I’m currently working on my own implementation of STM32F1xx drivers. <br>
   - 🌱 I’m currently learning <strong>C/C++</strong>. <br>
   - 🤝 I’m available for a job. <br>
   - 🤔 I’m looking for help with <strong>Embedded C Programming</strong>. <br>
   - 💬 Ask me about <strong>C</strong>.
 </div>
+
 
   <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
