@@ -12,19 +12,11 @@
   <h3> I'm an Electronics Engineer passionate about Embedded Systems, focusing on the C language.</h3>
   <br />
 
-  <div style="text-align: left; margin-left: 10px;">
+ <div style="text-align: left; margin-left: 10px;">
     - 🔭 I’m currently working on my own implementation of STM32F1xx drivers.
-  </div>
-  <div style="text-align: left; margin-left: 10px;">
     - 🌱 I’m currently learning **C/C++**
-  </div>
-  <div style="text-align: left; margin-left: 10px;">
     - 🤝 I’m available for a job.
-  </div>
-  <div style="text-align: left; margin-left: 10px;">
     - 🤔 I’m looking for help with **Embedded C Programming**
-  </div>
-  <div style="text-align: left; margin-left: 10px;">
     - 💬 Ask me about **C**
   </div>
 
