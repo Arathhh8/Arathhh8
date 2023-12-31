@@ -14,11 +14,14 @@
 
  <div style="text-align: left; margin-left: 10px;">
     - 🔭 I’m currently working on my own implementation of STM32F1xx drivers.
+ </div>
+ <div style="text-align: left; margin-left: 10px;">
     - 🌱 I’m currently learning **C/C++**
+ </div>
     - 🤝 I’m available for a job.
     - 🤔 I’m looking for help with **Embedded C Programming**
     - 💬 Ask me about **C**
-  </div>
+ </div>
 
 
   <br />
