@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm an Electronics Engineer passionate about Embedded Systems, focusing on the C lengauje.
+<h3>I'm an Electronics Engineer passionate about Embedded Systems, focusing on the C lengauje.</h3>
 <br />
 
 </div>
