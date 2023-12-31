@@ -12,14 +12,15 @@
   I'm an Electronics Engineer passionate about Embedded Systems, focusing on the C language.
   <br />
 
-  <div style="text-align: left; margin-left: 10px;">
-    - 🔭 I’m currently working on my own implementation of STM32F1xx drivers.
-    - 🌱 I’m currently learning **C/C++**
-    - 🤝 I’m available for a job.
-    - 🤔 I’m looking for help with **Embedded C Programming**
-    - 💬 Ask me about **C**
-  </div>
-
+<div style="text-align: left; margin-left: 10px;">
+  <p>- 🔭 I’m currently working on my own implementation of STM32F1xx drivers.</p>
+  <p>- 🌱 I’m currently learning <strong>C/C++</strong></p>
+  <p>- 🤝 I’m available for a job.</p>
+  <p>- 🤔 I’m looking for help with <strong>Embedded C Programming</strong></p>
+  <p>- 💬 Ask me about <strong>C</strong></p>
+</div>
+  <br />
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
   <br />
   <br />
