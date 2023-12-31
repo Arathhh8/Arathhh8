@@ -24,7 +24,9 @@
 
 <div align="center">
 
-![Tus lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&layout=compact&theme=dark&bg_color=0A0A0A)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&hide=c,makefile,batchfile,assembly,vhdl&langs_count=7&exclude_repo=js-course&border_radius=20&theme=tokyonight">
+</div>
 
 **Happy Coding!** 😊
 
