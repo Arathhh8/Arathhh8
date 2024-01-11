@@ -25,7 +25,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&hide=Makefile,batchfile,HTML,Assembly,JavaScript&langs_count=7&exclude_repo=MCU1,memoryDBZ,MonitorPharmacyApp&border_radius=20&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&hide=Makefile,batchfile,HTML,Assembly,JavaScript&langs_count=6&exclude_repo=MCU1,memoryDBZ,MonitorPharmacyApp&border_radius=20&theme=tokyonight">
 
 
 </div>
