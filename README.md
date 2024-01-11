@@ -25,7 +25,8 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&langs_count=7&exclude_repo=js-course,makefile,batchfile,assembly,vhdl&border_radius=20&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&langs_count=7&exclude=makefile,batchfile,assembly,vhdl&border_radius=20&theme=tokyonight">
+
 
 </div>
 
