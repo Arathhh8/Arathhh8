@@ -25,7 +25,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&hide=Makefile,batchfile,JavaScript&langs_count=7&exclude_repo=MCU1&border_radius=20&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arathhh8&hide=Makefile,batchfile,JavaScript&langs_count=7&exclude_repo=stm32f1xx_drivers,memoryDBZ&border_radius=20&theme=tokyonight">
 
 
 </div>
