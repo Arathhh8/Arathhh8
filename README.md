@@ -16,8 +16,9 @@
 
 
 
-- 🔭 I’m currently working on my own implementation of STM32F1xx drivers.
+- 🔭 I’m currently working as Firmware Engineering Intern
 - 🌱 I’m currently learning **C/C++**
+- 😊 I'm trying to figure out how the microcontrollers work
 - 🤔 I’m looking for help with **Embedded C Programming**
 - 💬 Ask me about **C**
 
