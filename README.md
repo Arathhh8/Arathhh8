@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working as Firmware Engineering Intern
+- 🔭 I’m currently working as Firmware Engineer
 - 🌱 I’m currently learning **C/C++**
 - 😊 I'm trying to figure out how the microcontrollers work
 - 🤔 I’m looking for help with **Embedded C Programming**
